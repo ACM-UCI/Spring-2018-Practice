@@ -1,6 +1,8 @@
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 #PROBLEM STATEMENT IS WRONG.  the numbers are {1,2,5}, not {1,3,5} (at the time of this submission)
-
+#this is a very tricky problem.
+#pretty interesting and tough to figure out.
+#took me about an hour.
 DP = [-1 for i in range(1001)]
 DP[0] = 0
 for i in range(1,len(DP)):
