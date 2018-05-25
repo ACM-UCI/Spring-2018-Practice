@@ -1,6 +1,9 @@
 A: https://www.hackerrank.com/challenges/diagonal-difference/problem (VERY EASY)
+
 B: https://www.hackerrank.com/contests/w37/challenges/dynamic-line-intersection  (FUN little hard)
+
 C: https://codejam.withgoogle.com/2018/challenges/0000000000007706/dashboard (CODE JAM Round 2  prob 1 KEVIN says easy)
+
 D: https://codejam.withgoogle.com/2018/challenges/0000000000007706/dashboard/00000000000459f3 (Round 2 prob 2)
 
 E: https://codejam.withgoogle.com/2018/challenges/0000000000007706/dashboard/0000000000045875 (Round 2 prob 3)
