@@ -2,11 +2,11 @@ A: https://www.hackerrank.com/challenges/diagonal-difference/problem (VERY EASY)
 
 B: https://www.hackerrank.com/contests/w37/challenges/dynamic-line-intersection  (FUN little hard)
 
-C: https://codejam.withgoogle.com/2018/challenges/0000000000007706/dashboard (CODE JAM Round 2  prob 1 KEVIN says easy)
+C: https://codingcompetitions.withgoogle.com/codejam/round/0000000000007706/00000000000459f2 (CODE JAM Round 2  prob 1 KEVIN says easy)
 
-D: https://codejam.withgoogle.com/2018/challenges/0000000000007706/dashboard/00000000000459f3 (Round 2 prob 2)
+D: https://codingcompetitions.withgoogle.com/codejam/round/0000000000007706/00000000000459f3 (Round 2 prob 2)
 
-E: https://codejam.withgoogle.com/2018/challenges/0000000000007706/dashboard/0000000000045875 (Round 2 prob 3)
+E: https://codingcompetitions.withgoogle.com/codejam/round/0000000000007706/0000000000045875 (Round 2 prob 3)
 
 FUN PROBLEM:
 There is a private array which has 2000 balls which are each colored either black or white. You’re asked to find out the majority that is if there are more white balls output an index where a white ball is present, if there are more black balls output an index where a  black ball is present. If there are an equal number of balls output 0.
